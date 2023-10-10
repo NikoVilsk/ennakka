@@ -1,0 +1,14 @@
+h1 {
+	color: orange; text-align: center;
+}
+h2 {
+	color: red;
+}
+#taikalaatikko { background-color: lightblue; } 
+.kuvateksti { color: orange; }
+
+html {
+color: red; }
+.dyykka { border: 1px solid green; }
+.loppu { float: right; }
+
